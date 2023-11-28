@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oretabkipsengwet
+- 👋 Hi, I’m Oretab Kipsengwet
 - 👀 I’m interested in ...WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
 - 🌱 I’m currently learning ...WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
 - 💞️ I’m looking to collaborate on ...WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
