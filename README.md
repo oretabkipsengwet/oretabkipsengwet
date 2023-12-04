@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Oretab Kipsengwet
-- 👀 I’m interested in ...WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
-- 🌱 I’m currently learning ...WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
-- 💞️ I’m looking to collaborate on ...WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
-- 📫 How to reach me ...oretabkipsengwet@gmail.com
+- 👀 My Interests: WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
+- 🌱 Currently learning: WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
+- 💞️ I’m looking to collaborate on WEB DEVELOPMENT; CLOUD COMPUTING; NETWORK SECURITY; CYBERSECURITY
+- 📫 Reach me at: oretabkipsengwet@gmail.com
 
 <!---
 oretabkipsengwet/oretabkipsengwet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
