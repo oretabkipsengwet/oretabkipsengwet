@@ -1,6 +1,4 @@
-# Greetings, I'm Oretab Kipsengwet! 👋
 
-Welcome to my GitHub profile, where technology meets passion. I am a dedicated professional with a keen interest in cutting-edge domains.
 
 ## Areas of Expertise
 - **Web Development**
